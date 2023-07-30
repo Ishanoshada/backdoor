@@ -15,13 +15,13 @@ The purpose of this repository is to demonstrate various PHP shells to assist se
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/backdoor-php-shells.git
+git clone https://github.com/ishanoshada/backdoor.git
 ```
 
 2. Navigate to the cloned repository:
 
 ```
-cd backdoor-php-shells
+cd backdoor
 ```
 
 3. Review the PHP shells available in this repository. Each shell has a unique set of features and functionalities.
